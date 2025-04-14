@@ -3,11 +3,17 @@
 Bom, abaixo estão alguns exemplos de comentarios contidos no código:
 
 <!-- Cabeçalho do site -->: explica que a seção seguinte é o cabeçalho do site.
+
 <!-- Logotipo da Cafeteria UFMS -->: explica que a imagem seguinte é o logotipo da cafeteria.
+
 <!-- Menu de navegação -->: explica que a seção seguinte é o menu de navegação.
+
 <!-- Seção principal do site -->: explica que a seção seguinte é a principal do site.
+
 <!-- Seção de apresentação -->, <!-- Seção sobre a cafeteria --> e <!-- Seção de contato -->: explicam o propósito de cada seção dentro da seção principal.
+
 <!-- Rodapé do site -->: explica que a seção seguinte é o rodapé do site.
+
 Objetivo
 O objetivo desses comentários é fornecer uma visão clara da estrutura do código e ajudar a entender o propósito de cada seção, tornando mais fácil a manutenção e o desenvolvimento do site.
 
