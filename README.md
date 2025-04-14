@@ -1,5 +1,7 @@
 ✅ Avaliação do Módulo 2 - Desenvolvimento Web com Frameworks e HTML/CSS
-bom, abaixo estão alguns exemplos de comentarios contiidos no código:
+
+Bom, abaixo estão alguns exemplos de comentarios contidos no código:
+
 <!-- Cabeçalho do site -->: explica que a seção seguinte é o cabeçalho do site.
 <!-- Logotipo da Cafeteria UFMS -->: explica que a imagem seguinte é o logotipo da cafeteria.
 <!-- Menu de navegação -->: explica que a seção seguinte é o menu de navegação.
